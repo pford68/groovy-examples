@@ -1,2 +1,2 @@
 # groovy-examples
-Learning enough Groovy to be dangerous
+Demonstrating enough Groovy to be dangerous
